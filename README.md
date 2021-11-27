@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pethuvignesh1
 - 👀 I’m interested in AWS
-- 🌱 I’m currently learning AWS Developer Associate
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning AWS Solution Architect
 
 <!---
 Pethuvignesh1/Pethuvignesh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
