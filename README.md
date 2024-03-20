@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pethuvignesh1
 - 🏆 Certified AWS Cloud Practitioner 
-- 🌱 I’m currently preparing AWS Solution Architect
 
 <!---
 Pethuvignesh1/Pethuvignesh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
